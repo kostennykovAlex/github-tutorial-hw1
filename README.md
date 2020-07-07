@@ -1,2 +1,2 @@
-# github-tutorial-hw1
+# goit-markup-hw-01
 home-work1
